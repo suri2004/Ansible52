@@ -1,0 +1,23 @@
+---
+- studentDetails: 
+   - name: suresh
+     pho: 81818181
+     course: Devops
+     address: 
+       streetno: 20
+       location: kphb
+       pin: 500072
+   - name: sai
+     pho: 71717171
+     course: aws
+     address: 
+       streetno: 20
+       location: kphb
+       pin: 500072 
+   - name: Ashok
+     pho: 61616161
+     course: DEvops
+     address: 
+      streetno: 20
+      location: kphb
+      pin: 500072
