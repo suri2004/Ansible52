@@ -3,3 +3,7 @@
   tasks:
   - name: ping
     ping:
+  - name: install webserver
+    apt:
+      name: apache2
+      state: present
